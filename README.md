@@ -1,0 +1,2 @@
+# Duplicate-Encoder
+CodeWars Kata
